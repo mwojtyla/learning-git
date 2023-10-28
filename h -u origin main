@@ -1,0 +1,23 @@
+[33mcommit 2594818957cddaa96bbae1c0363aa32d7cdfec27[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: martyna <martyna.wojtyla@bytamic.com>
+Date:   Sat Oct 28 22:42:53 2023 +0200
+
+    added main.go with empty main function
+
+[33mcommit e1b4e8d20b14fbcbb2725ea25dd923a63dcc85aa[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: martyna <martyna.wojtyla@bytamic.com>
+Date:   Sat Oct 28 21:59:04 2023 +0200
+
+    added body{} in main.css
+
+[33mcommit 89cc35d703933b5d8acb750f9205eb2f800b9fb2[m
+Author: martyna <martyna.wojtyla@bytamic.com>
+Date:   Sat Oct 28 21:49:56 2023 +0200
+
+    added console.log
+
+[33mcommit 4193be653f864a70fa58198535fe90c0548e0076[m
+Author: martyna <martyna.wojtyla@bytamic.com>
+Date:   Sat Oct 28 13:44:17 2023 +0200
+
+    bootstrap project
